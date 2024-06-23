@@ -1,6 +1,6 @@
 # 2 + 3 : 2 and 3 is operands, and " + " is Operators
 
-In Python, operators are special symbols or keywords that are used to perform operations on variables and values. Python supports a variety of operators, which can be categorized into several types based on the operations they perform. Here’s an overview of operators
+In Python, operators are special symbols or keywords that are used to perform operations on variables and values. Python supports a variety of operators, which can be categorized into several types based on the operations they perform. Here’s an overview of operators.
 
 Arithmetic 
 Comparison
