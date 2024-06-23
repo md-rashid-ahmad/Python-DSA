@@ -58,7 +58,7 @@ Bitwise operators perform operations on binary representations of integers.
 ^    # Bitwise XOR
 ~    # Bitwise NOT (invert bits)
 <<   # Left shift
->>   # Right shift
+>>   # Right Shift
 
 6. Membership Operators
 Membership operators test for membership in a sequence (e.g., strings, lists, tuples).
