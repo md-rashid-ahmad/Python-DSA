@@ -2,15 +2,15 @@
 
 In Python, operators are special symbols or keywords that are used to perform operations on variables and values. Python supports a variety of operators, which can be categorized into several types based on the operations they perform. Here’s an overview of operators
 
-1. Arithmetic 
-2. Comparison
-3. Logical
-4. Assignment
-5. Bitwise
-6. Membership
-7. Identity
+Arithmetic 
+Comparison
+Logical
+Assignment
+Bitwise
+Membership
+Identity
 
-1. Arithmetic Operators
+Arithmetic Operators:
 Arithmetic operators are used to perform mathematical operations like addition, subtraction, multiplication, division, etc.
 +   # Addition
 -   # Subtraction
@@ -20,7 +20,7 @@ Arithmetic operators are used to perform mathematical operations like addition, 
 %   # Modulus (remainder)
 **  # Exponentiation
 
-2. Comparison (Relational) Operators
+Comparison (Relational) Operators:
 Comparison operators are used to compare values. They return Boolean values (True or False).
 
 ==   # Equal to
@@ -30,7 +30,7 @@ Comparison operators are used to compare values. They return Boolean values (Tru
 >=   # Greater than or equal to
 <=   # Less than or equal to
 
-3. Logical Operators
+Logical Operators:
 Logical operators are used to combine conditional statements. They return Boolean values.
 
 and   # Logical AND
@@ -38,7 +38,7 @@ or    # Logical OR
 not   # Logical NOT (unary operator)
 
 
-4. Assignment Operators
+Assignment Operators:
 Assignment operators are used to assign values to variables.
 =    # Assign value
 +=   # Add and assign
@@ -50,7 +50,7 @@ Assignment operators are used to assign values to variables.
 **=  # Exponentiate and assign
 
 
-5. Bitwise Operators
+Bitwise Operators:
 Bitwise operators perform operations on binary representations of integers.
 
 &    # Bitwise AND
@@ -60,14 +60,14 @@ Bitwise operators perform operations on binary representations of integers.
 <<   # Left shift
 >>   # Right Shift
 
-6. Membership Operators
+Membership Operators:
 Membership operators test for membership in a sequence (e.g., strings, lists, tuples).
 
 in       # Evaluates to True if value is found in the sequence
 not in   # Evaluates to True if value is not found in the sequence
 
 
-7. Identity Operators
+Identity Operators:
 Identity operators compare the memory locations of two objects.
 
 is        # Evaluates to True if both variables point to the same object
